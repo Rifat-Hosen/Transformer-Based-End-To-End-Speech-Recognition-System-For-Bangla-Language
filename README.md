@@ -25,3 +25,13 @@ In addition, we are collecting speech of these dialects, which will be provided 
 # Model:
 
 This repository contains an ASR model that was trained during 95 epochs on a total of 30k datasets over the course of 55 hours, and with this model we obtained approximately 68% accuracy.
+
+
+# Resource 
+Resource uses for our dataset........
+<img src="image/res.png" alt="Alt text" title="Resource">
+
+
+
+
+
